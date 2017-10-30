@@ -1,1 +1,3 @@
 # mav-visual-stabilizer
+
+GPS
